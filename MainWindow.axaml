@@ -1,0 +1,23 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="clr-namespace:Task1"
+        x:Class="Task1.MainWindow"
+        x:DataType="vm:MainViewModel"
+        Title="Калькулятор"
+        Width="300" Height="250">
+    <StackPanel Margin="10">
+        <TextBox Text="{Binding Num1}" Watermark="Введите число 1"/>
+        <TextBox Text="{Binding Num2}" Watermark="Введите число 2"/>
+
+        <StackPanel Orientation="Horizontal" Spacing="5">
+            <Button Content="+" Command="{Binding Add}"/>
+            <Button Content="-" Command="{Binding Subtract}"/>
+            <Button Content="*" Command="{Binding Multiply}"/>
+            <Button Content="/" Command="{Binding Divide}"/>
+            <Button Content="Сравнить" Command="{Binding Compare}"/>
+        </StackPanel>
+        <Button Content="Научная нотация" Command="{Binding ToScientific}"/>
+
+        <TextBlock Text="{Binding Result}" FontSize="16" FontWeight="Bold"/>
+    </StackPanel>
+</Window>

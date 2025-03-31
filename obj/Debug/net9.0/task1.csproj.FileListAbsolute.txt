@@ -1,0 +1,142 @@
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\task1.exe
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\task1.deps.json
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\task1.runtimeconfig.json
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\task1.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\task1.pdb
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.Base.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.Controls.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.DesignerSupport.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.Dialogs.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.Markup.Xaml.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.Markup.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.Metal.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.MicroCom.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.OpenGL.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.Vulkan.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.Controls.ColorPicker.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.Controls.DataGrid.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.Desktop.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.Diagnostics.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.Fonts.Inter.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.FreeDesktop.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.Native.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.ReactiveUI.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.Remote.Protocol.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.Skia.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.Themes.Fluent.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.Themes.Simple.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.Win32.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Avalonia.X11.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\DynamicData.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\HarfBuzzSharp.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\MicroCom.Runtime.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\ReactiveUI.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\SkiaSharp.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Splat.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\System.Reactive.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\Tmds.DBus.Protocol.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\runtimes\win-arm64\native\av_libglesv2.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\runtimes\win-x64\native\av_libglesv2.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\runtimes\win-x86\native\av_libglesv2.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\runtimes\osx\native\libAvaloniaNative.dylib
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\runtimes\linux-arm\native\libSkiaSharp.so
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\runtimes\linux-arm64\native\libSkiaSharp.so
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\runtimes\linux-x64\native\libSkiaSharp.so
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\user\Downloads\task1\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\user\Downloads\task1\obj\Debug\net9.0\task1.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\task1\obj\Debug\net9.0\Avalonia\Resources.Inputs.cache
+C:\Users\user\Downloads\task1\obj\Debug\net9.0\Avalonia\resources
+C:\Users\user\Downloads\task1\obj\Debug\net9.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\task1\obj\Debug\net9.0\task1.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\task1\obj\Debug\net9.0\task1.AssemblyInfo.cs
+C:\Users\user\Downloads\task1\obj\Debug\net9.0\task1.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\task1\obj\Debug\net9.0\Avalonia\task1.dll
+C:\Users\user\Downloads\task1\obj\Debug\net9.0\Avalonia\task1.pdb
+C:\Users\user\Downloads\task1\obj\Debug\net9.0\refint\Avalonia\task1.dll
+C:\Users\user\Downloads\task1\obj\Debug\net9.0\task1.csproj.Up2Date
+C:\Users\user\Downloads\task1\obj\Debug\net9.0\task1.genruntimeconfig.cache
+C:\Users\user\Downloads\task1\obj\Debug\net9.0\ref\task1.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\task1.exe
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\task1.deps.json
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\task1.runtimeconfig.json
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\task1.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\task1.pdb
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.Base.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.Controls.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.DesignerSupport.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.Dialogs.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.Markup.Xaml.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.Markup.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.Metal.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.MicroCom.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.OpenGL.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.Vulkan.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.Controls.ColorPicker.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.Controls.DataGrid.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.Desktop.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.Diagnostics.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.Fonts.Inter.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.FreeDesktop.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.Native.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.ReactiveUI.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.Remote.Protocol.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.Skia.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.Themes.Fluent.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.Themes.Simple.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.Win32.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Avalonia.X11.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\DynamicData.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\HarfBuzzSharp.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\MicroCom.Runtime.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\ReactiveUI.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\SkiaSharp.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Splat.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\System.Reactive.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\Tmds.DBus.Protocol.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\runtimes\win-arm64\native\av_libglesv2.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\runtimes\win-x64\native\av_libglesv2.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\runtimes\win-x86\native\av_libglesv2.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\runtimes\osx\native\libAvaloniaNative.dylib
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\runtimes\linux-arm\native\libHarfBuzzSharp.so
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\runtimes\linux-x64\native\libHarfBuzzSharp.so
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\runtimes\osx\native\libHarfBuzzSharp.dylib
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\runtimes\win-x64\native\libHarfBuzzSharp.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\runtimes\win-x86\native\libHarfBuzzSharp.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\runtimes\linux-arm\native\libSkiaSharp.so
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\runtimes\linux-arm64\native\libSkiaSharp.so
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\runtimes\linux-musl-x64\native\libSkiaSharp.so
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\runtimes\linux-x64\native\libSkiaSharp.so
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\runtimes\osx\native\libSkiaSharp.dylib
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.dll
+G:\Half Life 7\VSU\task1\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.dll
+G:\Half Life 7\VSU\task1\obj\Debug\net9.0\task1.csproj.AssemblyReference.cache
+G:\Half Life 7\VSU\task1\obj\Debug\net9.0\Avalonia\Resources.Inputs.cache
+G:\Half Life 7\VSU\task1\obj\Debug\net9.0\Avalonia\resources
+G:\Half Life 7\VSU\task1\obj\Debug\net9.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+G:\Half Life 7\VSU\task1\obj\Debug\net9.0\task1.AssemblyInfoInputs.cache
+G:\Half Life 7\VSU\task1\obj\Debug\net9.0\task1.AssemblyInfo.cs
+G:\Half Life 7\VSU\task1\obj\Debug\net9.0\task1.csproj.CoreCompileInputs.cache
+G:\Half Life 7\VSU\task1\obj\Debug\net9.0\Avalonia\task1.dll
+G:\Half Life 7\VSU\task1\obj\Debug\net9.0\Avalonia\task1.pdb
+G:\Half Life 7\VSU\task1\obj\Debug\net9.0\refint\Avalonia\task1.dll
+G:\Half Life 7\VSU\task1\obj\Debug\net9.0\task1.csproj.Up2Date
+G:\Half Life 7\VSU\task1\obj\Debug\net9.0\task1.genruntimeconfig.cache
+G:\Half Life 7\VSU\task1\obj\Debug\net9.0\ref\task1.dll
